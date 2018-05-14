@@ -1,0 +1,41 @@
+html {
+    background-color:white;
+    
+}
+
+body { 
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    margin:60px;
+
+}
+
+a {
+    padding:50px;
+    padding-bottom:35px;
+    font-family:"Prestige Elite Std";
+        
+}
+a:hover{
+    color:magenta;
+}
+img {
+    padding-top:50px;
+}
+
+h1 { 
+    text-align:center;
+    font-family: 'Trocchi', serif;
+   
+}
+
+p {
+    margin-left:80px;
+    margin-right:80px;
+    text-align:center;
+    font-family: 'Arapey', serif;
+    background-color: lightpink; 
+    font-size: 18pt;
+}
+
